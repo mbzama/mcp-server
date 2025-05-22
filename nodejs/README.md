@@ -1,4 +1,4 @@
-** Running directly with node module **
+Running directly with node module
 
 1) Install npm dependency:
 npm install -g @modelcontextprotocol/server-postgres
